@@ -1,0 +1,20 @@
+{
+  "telegram": {
+    "enabled": true,
+    "bot_token": "7579834718:AAHOxEjB6GvqKFA0ztql2qKvOg0u3LqDU2M",
+    "chat_id": "171656163"
+  },
+  "webhook": {
+    "enabled": false,
+    "url": ""
+  },
+  "file": {
+    "enabled": true,
+    "path": "/home/ubuntu/agi-news-agent/notifications.json"
+  },
+  "thresholds": {
+    "min_stars": 1000,
+    "min_stars_per_day": 5,
+    "min_relevance": 50
+  }
+}

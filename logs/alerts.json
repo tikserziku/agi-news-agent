@@ -1,0 +1,242 @@
+[
+  {
+    "type": "github",
+    "title": "HOT Repo: huggingface/transformers",
+    "message": "Stars: 155100 | Growth: 58.86/day | Score: 146912.15",
+    "url": "https://github.com/huggingface/transformers",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:23:42.460081"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: langgenius/dify",
+    "message": "Stars: 126002 | Growth: 124.88/day | Score: 114728.81",
+    "url": "https://github.com/langgenius/dify",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:23:42.460094"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: langchain-ai/langchain",
+    "message": "Stars: 124252 | Growth: 104.77/day | Score: 113552.56",
+    "url": "https://github.com/langchain-ai/langchain",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:23:42.460098"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: langflow-ai/langflow",
+    "message": "Stars: 143585 | Growth: 133.94/day | Score: 101790.62",
+    "url": "https://github.com/langflow-ai/langflow",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:23:42.460101"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: FoundationAgents/MetaGPT",
+    "message": "Stars: 62998 | Growth: 67.74/day | Score: 54070.98",
+    "url": "https://github.com/FoundationAgents/MetaGPT",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:23:42.460103"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: anthropics/claude-code",
+    "message": "Stars: 56737 | Growth: 173.51/day | Score: 54003.26",
+    "url": "https://github.com/anthropics/claude-code",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:23:42.460106"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: code-yeongyu/oh-my-opencode",
+    "message": "Stars: 17093 | Growth: 397.51/day | Score: 50669.66",
+    "url": "https://github.com/code-yeongyu/oh-my-opencode",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:23:42.460109"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: opendatalab/MinerU",
+    "message": "Stars: 52157 | Growth: 76.03/day | Score: 42373.56",
+    "url": "https://github.com/opendatalab/MinerU",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:23:42.460112"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: run-llama/llama_index",
+    "message": "Stars: 46334 | Growth: 39.6/day | Score: 40549.17",
+    "url": "https://github.com/run-llama/llama_index",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:23:42.460115"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: reworkd/AgentGPT",
+    "message": "Stars: 35506 | Growth: 35.02/day | Score: 40172.58",
+    "url": "https://github.com/reworkd/AgentGPT",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:23:42.460117"
+  },
+  {
+    "type": "blog",
+    "title": "ANTHROPIC: Snowflake Anthropic Expanded Partnership",
+    "message": "Anthropic News",
+    "url": "https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:23:42.460120"
+  },
+  {
+    "type": "blog",
+    "title": "ANTHROPIC: Anthropic Raises Series F At Usd183B Post Money Valuation",
+    "message": "Anthropic News",
+    "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:23:42.460123"
+  },
+  {
+    "type": "blog",
+    "title": "ANTHROPIC: Donating The Model Context Protocol And Establishing Of The ",
+    "message": "Anthropic News",
+    "url": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:23:42.460125"
+  },
+  {
+    "type": "blog",
+    "title": "OPENAI: Gym Retro",
+    "message": "We’re releasing the full version of Gym Retro, a platform for reinforcement learning research on games. This brings our publicly-released game count from around 70 Atari games and 30 Sega games to ove",
+    "url": "https://openai.com/index/gym-retro",
+    "priority": "normal",
+    "timestamp": "2026-01-15T11:23:42.460128"
+  },
+  {
+    "type": "blog",
+    "title": "OPENAI: GPT-2: 1.5B release",
+    "message": "As the final model release of GPT-2’s staged release, we’re releasing the largest version (1.5B parameters) of GPT-2 along with code and model weights to facilitate detection of outputs of GPT-2 model",
+    "url": "https://openai.com/index/gpt-2-1-5b-release",
+    "priority": "normal",
+    "timestamp": "2026-01-15T11:23:42.460130"
+  },
+  {
+    "type": "blog",
+    "title": "OPENAI: Scaling Kubernetes to 7,500 nodes",
+    "message": "We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like GPT-3, CLIP, and DALL·E, but also for rapid small-scale iterative research such as Scaling La",
+    "url": "https://openai.com/index/scaling-kubernetes-to-7500-nodes",
+    "priority": "normal",
+    "timestamp": "2026-01-15T11:23:42.460133"
+  },
+  {
+    "type": "blog",
+    "title": "OPENAI: GPT-3 powers the next generation of apps",
+    "message": "Over 300 applications are delivering GPT-3–powered search, conversation, text completion, and other advanced AI features through our API.",
+    "url": "https://openai.com/index/gpt-3-apps",
+    "priority": "normal",
+    "timestamp": "2026-01-15T11:23:42.460136"
+  },
+  {
+    "type": "blog",
+    "title": "OPENAI: Aligning language models to follow instructions",
+    "message": "We’ve trained language models that are much better at following user intentions than GPT-3 while also making them more truthful and less toxic, using techniques developed through our alignment researc",
+    "url": "https://openai.com/index/instruction-following",
+    "priority": "normal",
+    "timestamp": "2026-01-15T11:23:42.460138"
+  },
+  {
+    "type": "blog",
+    "title": "OPENAI: New GPT-3 capabilities: Edit & insert",
+    "message": "We’ve released new versions of GPT-3 and Codex which can edit or insert content into existing text, rather than just completing existing text.",
+    "url": "https://openai.com/index/gpt-3-edit-insert",
+    "priority": "normal",
+    "timestamp": "2026-01-15T11:23:42.460141"
+  },
+  {
+    "type": "blog",
+    "title": "OPENAI: GPT-3.5 Turbo fine-tuning and API updates",
+    "message": "Developers can now bring their own data to customize GPT-3.5 Turbo for their use cases.",
+    "url": "https://openai.com/index/gpt-3-5-turbo-fine-tuning-and-api-updates",
+    "priority": "normal",
+    "timestamp": "2026-01-15T11:23:42.460144"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: huggingface/transformers",
+    "message": "Stars: 155100 | Growth: 58.86/day | Score: 146912.15",
+    "url": "https://github.com/huggingface/transformers",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:21:19.937499"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: langgenius/dify",
+    "message": "Stars: 126002 | Growth: 124.88/day | Score: 114728.81",
+    "url": "https://github.com/langgenius/dify",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:21:19.937516"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: langchain-ai/langchain",
+    "message": "Stars: 124252 | Growth: 104.77/day | Score: 113552.56",
+    "url": "https://github.com/langchain-ai/langchain",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:21:19.937519"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: langflow-ai/langflow",
+    "message": "Stars: 143585 | Growth: 133.94/day | Score: 101790.62",
+    "url": "https://github.com/langflow-ai/langflow",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:21:19.937522"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: FoundationAgents/MetaGPT",
+    "message": "Stars: 62998 | Growth: 67.74/day | Score: 54070.98",
+    "url": "https://github.com/FoundationAgents/MetaGPT",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:21:19.937524"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: anthropics/claude-code",
+    "message": "Stars: 56736 | Growth: 173.5/day | Score: 54002.46",
+    "url": "https://github.com/anthropics/claude-code",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:21:19.937527"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: code-yeongyu/oh-my-opencode",
+    "message": "Stars: 17091 | Growth: 397.47/day | Score: 50664.01",
+    "url": "https://github.com/code-yeongyu/oh-my-opencode",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:21:19.937529"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: opendatalab/MinerU",
+    "message": "Stars: 52157 | Growth: 76.03/day | Score: 42373.56",
+    "url": "https://github.com/opendatalab/MinerU",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:21:19.937534"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: run-llama/llama_index",
+    "message": "Stars: 46334 | Growth: 39.6/day | Score: 40549.17",
+    "url": "https://github.com/run-llama/llama_index",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:21:19.937536"
+  },
+  {
+    "type": "github",
+    "title": "HOT Repo: reworkd/AgentGPT",
+    "message": "Stars: 35506 | Growth: 35.02/day | Score: 40172.58",
+    "url": "https://github.com/reworkd/AgentGPT",
+    "priority": "high",
+    "timestamp": "2026-01-15T11:21:19.937538"
+  }
+]
