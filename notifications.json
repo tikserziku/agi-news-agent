@@ -1181,5 +1181,174 @@
         "source": "blog_anthropic"
       }
     ]
+  },
+  {
+    "timestamp": "2026-01-16T23:13:34.581305",
+    "rising_stars": [
+      {
+        "name": "zai-org/Open-AutoGLM",
+        "url": "https://github.com/zai-org/Open-AutoGLM",
+        "stars": 22113,
+        "stars_per_day": 567.0,
+        "category": "agentic"
+      },
+      {
+        "name": "code-yeongyu/oh-my-opencode",
+        "url": "https://github.com/code-yeongyu/oh-my-opencode",
+        "stars": 17931,
+        "stars_per_day": 407.52,
+        "category": "claude"
+      },
+      {
+        "name": "jarrodwatts/claude-hud",
+        "url": "https://github.com/jarrodwatts/claude-hud",
+        "stars": 2410,
+        "stars_per_day": 172.14,
+        "category": "claude"
+      },
+      {
+        "name": "sickn33/antigravity-awesome-skills",
+        "url": "https://github.com/sickn33/antigravity-awesome-skills",
+        "stars": 311,
+        "stars_per_day": 155.5,
+        "category": "claude"
+      },
+      {
+        "name": "Universal-Commerce-Protocol/ucp",
+        "url": "https://github.com/Universal-Commerce-Protocol/ucp",
+        "stars": 1877,
+        "stars_per_day": 117.31,
+        "category": "protocols"
+      },
+      {
+        "name": "fengshao1227/ccg-workflow",
+        "url": "https://github.com/fengshao1227/ccg-workflow",
+        "stars": 1232,
+        "stars_per_day": 102.67,
+        "category": "tools"
+      },
+      {
+        "name": "heilcheng/awesome-agent-skills",
+        "url": "https://github.com/heilcheng/awesome-agent-skills",
+        "stars": 1325,
+        "stars_per_day": 73.61,
+        "category": "claude"
+      },
+      {
+        "name": "covibes/zeroshot",
+        "url": "https://github.com/covibes/zeroshot",
+        "stars": 822,
+        "stars_per_day": 37.36,
+        "category": "tools"
+      },
+      {
+        "name": "m0n0x41d/quint-code",
+        "url": "https://github.com/m0n0x41d/quint-code",
+        "stars": 1100,
+        "stars_per_day": 29.73,
+        "category": "tools"
+      },
+      {
+        "name": "Upsonic/awesome-ucp",
+        "url": "https://github.com/Upsonic/awesome-ucp",
+        "stars": 80,
+        "stars_per_day": 20.0,
+        "category": "protocols"
+      }
+    ],
+    "high_value": [
+      {
+        "name": "langchain-ai/langchain",
+        "url": "https://github.com/langchain-ai/langchain",
+        "stars": 124357,
+        "category": "agentic"
+      },
+      {
+        "name": "FoundationAgents/MetaGPT",
+        "url": "https://github.com/FoundationAgents/MetaGPT",
+        "stars": 63062,
+        "category": "agentic"
+      },
+      {
+        "name": "microsoft/autogen",
+        "url": "https://github.com/microsoft/autogen",
+        "stars": 53528,
+        "category": "agentic"
+      },
+      {
+        "name": "crewAIInc/crewAI",
+        "url": "https://github.com/crewAIInc/crewAI",
+        "stars": 42747,
+        "category": "agentic"
+      },
+      {
+        "name": "CherryHQ/cherry-studio",
+        "url": "https://github.com/CherryHQ/cherry-studio",
+        "stars": 37894,
+        "category": "agents"
+      },
+      {
+        "name": "reworkd/AgentGPT",
+        "url": "https://github.com/reworkd/AgentGPT",
+        "stars": 35528,
+        "category": "agents"
+      },
+      {
+        "name": "danny-avila/LibreChat",
+        "url": "https://github.com/danny-avila/LibreChat",
+        "stars": 33146,
+        "category": "claude"
+      },
+      {
+        "name": "khoj-ai/khoj",
+        "url": "https://github.com/khoj-ai/khoj",
+        "stars": 32190,
+        "category": "agents"
+      },
+      {
+        "name": "continuedev/continue",
+        "url": "https://github.com/continuedev/continue",
+        "stars": 30916,
+        "category": "tools"
+      },
+      {
+        "name": "wshobson/agents",
+        "url": "https://github.com/wshobson/agents",
+        "stars": 25675,
+        "category": "claude"
+      }
+    ],
+    "news": [
+      {
+        "title": "sickn33/antigravity-awesome-skills: The Ultimate Collection of 130+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, hi",
+        "url": "https://github.com/sickn33/antigravity-awesome-skills",
+        "score": 60.0,
+        "source": "github"
+      },
+      {
+        "title": "ericksoa/agentic-evolve: Evolutionary algorithm discovery using Claude Code",
+        "url": "https://github.com/ericksoa/agentic-evolve",
+        "score": 60.0,
+        "source": "github"
+      },
+      {
+        "title": "guru111244/claude-team-mcp: 🤖 Orchestrate AI models like GPT and Claude for seamless collaboration in multi-agent development ta",
+        "url": "https://github.com/guru111244/claude-team-mcp",
+        "score": 80.0,
+        "source": "github"
+      },
+      {
+        "title": "Donating The Model Context Protocol And Establishing Of The Agentic Ai Foundation",
+        "url": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
+        "score": 100.0,
+        "source": "blog_anthropic"
+      },
+      {
+        "title": "Claude Opus 4 5",
+        "url": "https://www.anthropic.com/news/claude-opus-4-5",
+        "score": 60.0,
+        "source": "blog_anthropic"
+      }
+    ]
   }
 ]
