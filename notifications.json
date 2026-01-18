@@ -2026,5 +2026,174 @@
         "source": "github"
       }
     ]
+  },
+  {
+    "timestamp": "2026-01-18T05:14:02.948575",
+    "rising_stars": [
+      {
+        "name": "zai-org/Open-AutoGLM",
+        "url": "https://github.com/zai-org/Open-AutoGLM",
+        "stars": 22160,
+        "stars_per_day": 540.49,
+        "category": "agentic"
+      },
+      {
+        "name": "code-yeongyu/oh-my-opencode",
+        "url": "https://github.com/code-yeongyu/oh-my-opencode",
+        "stars": 18618,
+        "stars_per_day": 404.74,
+        "category": "claude"
+      },
+      {
+        "name": "jarrodwatts/claude-hud",
+        "url": "https://github.com/jarrodwatts/claude-hud",
+        "stars": 2462,
+        "stars_per_day": 153.88,
+        "category": "claude"
+      },
+      {
+        "name": "Universal-Commerce-Protocol/ucp",
+        "url": "https://github.com/Universal-Commerce-Protocol/ucp",
+        "stars": 1928,
+        "stars_per_day": 107.11,
+        "category": "protocols"
+      },
+      {
+        "name": "sickn33/antigravity-awesome-skills",
+        "url": "https://github.com/sickn33/antigravity-awesome-skills",
+        "stars": 415,
+        "stars_per_day": 103.75,
+        "category": "claude"
+      },
+      {
+        "name": "fengshao1227/ccg-workflow",
+        "url": "https://github.com/fengshao1227/ccg-workflow",
+        "stars": 1280,
+        "stars_per_day": 91.43,
+        "category": "tools"
+      },
+      {
+        "name": "heilcheng/awesome-agent-skills",
+        "url": "https://github.com/heilcheng/awesome-agent-skills",
+        "stars": 1367,
+        "stars_per_day": 68.35,
+        "category": "claude"
+      },
+      {
+        "name": "covibes/zeroshot",
+        "url": "https://github.com/covibes/zeroshot",
+        "stars": 867,
+        "stars_per_day": 36.12,
+        "category": "tools"
+      },
+      {
+        "name": "m0n0x41d/quint-code",
+        "url": "https://github.com/m0n0x41d/quint-code",
+        "stars": 1103,
+        "stars_per_day": 28.28,
+        "category": "tools"
+      },
+      {
+        "name": "ykdojo/claude-code-tips",
+        "url": "https://github.com/ykdojo/claude-code-tips",
+        "stars": 994,
+        "stars_per_day": 19.49,
+        "category": "tools"
+      }
+    ],
+    "high_value": [
+      {
+        "name": "langchain-ai/langchain",
+        "url": "https://github.com/langchain-ai/langchain",
+        "stars": 124430,
+        "category": "agentic"
+      },
+      {
+        "name": "FoundationAgents/MetaGPT",
+        "url": "https://github.com/FoundationAgents/MetaGPT",
+        "stars": 63100,
+        "category": "agentic"
+      },
+      {
+        "name": "microsoft/autogen",
+        "url": "https://github.com/microsoft/autogen",
+        "stars": 53571,
+        "category": "agentic"
+      },
+      {
+        "name": "crewAIInc/crewAI",
+        "url": "https://github.com/crewAIInc/crewAI",
+        "stars": 42797,
+        "category": "agentic"
+      },
+      {
+        "name": "CherryHQ/cherry-studio",
+        "url": "https://github.com/CherryHQ/cherry-studio",
+        "stars": 37958,
+        "category": "agents"
+      },
+      {
+        "name": "reworkd/AgentGPT",
+        "url": "https://github.com/reworkd/AgentGPT",
+        "stars": 35537,
+        "category": "agents"
+      },
+      {
+        "name": "danny-avila/LibreChat",
+        "url": "https://github.com/danny-avila/LibreChat",
+        "stars": 33157,
+        "category": "claude"
+      },
+      {
+        "name": "khoj-ai/khoj",
+        "url": "https://github.com/khoj-ai/khoj",
+        "stars": 32197,
+        "category": "agents"
+      },
+      {
+        "name": "continuedev/continue",
+        "url": "https://github.com/continuedev/continue",
+        "stars": 30940,
+        "category": "tools"
+      },
+      {
+        "name": "wshobson/agents",
+        "url": "https://github.com/wshobson/agents",
+        "stars": 25784,
+        "category": "claude"
+      }
+    ],
+    "news": [
+      {
+        "title": "thebrownproject/space-agents: Agent orchestration framework for Claude Code",
+        "url": "https://github.com/thebrownproject/space-agents",
+        "score": 60.0,
+        "source": "github"
+      },
+      {
+        "title": "Dicklesworthstone/remote_compilation_helper: Transparent compilation offloading for AI coding agents - intercepts cargo/gcc builds via Claude Cod",
+        "url": "https://github.com/Dicklesworthstone/remote_compilation_helper",
+        "score": 50.0,
+        "source": "github"
+      },
+      {
+        "title": "Haidzai/claude-code-proxy: Monitor and visualize your Claude Code API interactions with Claude Code Proxy. Easily set up a tran",
+        "url": "https://github.com/Haidzai/claude-code-proxy",
+        "score": 50.0,
+        "source": "github"
+      },
+      {
+        "title": "shardakaurr/ai-agent-optimization: Optimizing AI Coding Agents using AGENTS.md and MCP",
+        "url": "https://github.com/shardakaurr/ai-agent-optimization",
+        "score": 50.0,
+        "source": "github"
+      },
+      {
+        "title": "proboscis/orch: Orchestrator for multiple LLM CLIs (claude/codex/gemini) using issue/run/event vocabulary",
+        "url": "https://github.com/proboscis/orch",
+        "score": 60.0,
+        "source": "github"
+      }
+    ]
   }
 ]
